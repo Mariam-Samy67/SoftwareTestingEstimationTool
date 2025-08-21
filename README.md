@@ -1,4 +1,3 @@
-# SoftwareTestingEstimationTool
 # Software Testing Estimation Tool
 
 ## Description
